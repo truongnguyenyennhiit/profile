@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   
   ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/smith-portfolio)
@@ -52,3 +53,6 @@ If you want to contact with me you can reach me at [Twitter](https://www.twitter
 ### License
 
 This project is **free to use** and does not contains any license.
+=======
+# nhitny.github.io
+>>>>>>> 2db2c321c5b050b8886680742f81445d1ba6c521
